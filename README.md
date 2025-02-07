@@ -1,2 +1,3 @@
 # PowerBi-Project
 This project demonstrates my ability to transform raw survey data into actionable insights and to present it in an intuitive, interactive format. The dashboard provides a clear, comprehensive view of the global data professional landscape, making it an invaluable resource for decision-makers in the tech and data sectors.
+The survey involves Data Professional's views on various issues that affect them including the difficulty of breaking into data, salary satisfaction, favourite programming language among others. The dashboard presents this data in an understandable and interactive way.
